@@ -22,5 +22,12 @@ console.log(circle)
 // Esercizio 3 //
 
 let name = carlo
+console.log(name)
 
 name = marco
+console.log(name)
+
+// Esercizio 4
+
+let greet = "Ciao, Mondo!"
+console.log(name)
