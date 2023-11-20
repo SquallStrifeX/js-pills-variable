@@ -34,5 +34,30 @@ console.log(name)
 
 // Esercizio 4/B
 
-let greet = "Come stai, Mondo?"
-console.log(name)
+// let greet = "Come stai, Mondo?"
+// console.log(name)
+
+// Esercizio 4/C
+let greet2 = "Come stai?"
+console.log(greet2)
+
+greet = greet+greet2
+ console.log(greet)
+
+//  Esercizio 1
+let num1 = 10
+
+let num2 = 20
+
+let comparison
+
+if(num1 > num2){
+    comparison = num1
+
+}
+
+else{
+    comparison = num 2
+}
+
+console.log(comparison)
