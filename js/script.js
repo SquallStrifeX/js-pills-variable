@@ -31,3 +31,8 @@ console.log(name)
 
 let greet = "Ciao, Mondo!"
 console.log(name)
+
+// Esercizio 4/B
+
+let greet = "Come stai, Mondo?"
+console.log(name)
