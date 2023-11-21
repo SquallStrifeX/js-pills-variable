@@ -61,3 +61,20 @@ else{
 }
 
 console.log(comparison)
+
+
+// Esercizio 2
+
+let paolo = 40
+
+let carlo = 30
+
+if(paolo == carlo) {
+    comparison =  "le stringhe sono uguali"
+}
+
+else{
+    comparison = "le stringhe sono diverse"
+}
+
+
